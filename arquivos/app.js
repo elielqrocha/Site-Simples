@@ -10,7 +10,7 @@ switcher.addEventListener('click', function() {
         this.tesxtContent = "Dark";
     }
     else {
-        this.tesxtContent = "light"
+        this.tesxtContent = "Light"
     }
     console.log('current class name: ' + className);
 
